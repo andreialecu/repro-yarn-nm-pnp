@@ -1,0 +1,13 @@
+{
+  "name": "yarn-nm-pnp",
+  "private": true,
+  "scripts": {
+    "start:nm": "yarn nm-packages/app start"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "typescript": "^4.0.5"
+  }
+}
