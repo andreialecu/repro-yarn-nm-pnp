@@ -2,8 +2,8 @@
   "name": "yarn-nm-pnp",
   "private": true,
   "scripts": {
-    "start:nm": "yarn nm-packages/app start",
-    "start:nm2": "cd nm-packages/app && yarn start"
+    "start:nm": "yarn nm-packages/angular start",
+    "start:nm2": "cd nm-packages/angular && yarn start"
   },
   "workspaces": [
     "packages/*"

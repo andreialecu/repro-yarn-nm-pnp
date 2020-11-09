@@ -41,10 +41,10 @@ typescript@^4.0.5:
 
 "typescript@patch:typescript@^4.0.5#builtin<compat/typescript>":
   version: 4.0.5
-  resolution: "typescript@patch:typescript@npm%3A4.0.5#builtin<compat/typescript>::version=4.0.5&hash=5bf698"
+  resolution: "typescript@patch:typescript@npm%3A4.0.5#builtin<compat/typescript>::version=4.0.5&hash=5b26c6"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: d4be0bd2a2050b2d7b132cb2a40329178f181543e9d2ac6d1f06babd9f047208558a736a7effdeb28759ae2e815f070b61d10ee2f02cc93a6221a1490f21ffce
+  checksum: a5d7f9b825e031978822eec62d3821c9eba9e6ae111e17be8ddcf1f001ab4e3a18075ffe1a88f3b53a48ce15bb6eeb320c3916994e9b5d1bfdd45026275acd00
   languageName: node
   linkType: hard
